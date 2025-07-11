@@ -17,7 +17,7 @@ const projects = [
     title: "Quiz",
     description:
       "A quiz with web development.",
-    image: "/projects/project3.png",
+    image: "/projects/Project2.jpg",
     tags: ["React", "Node.js"],
     demoUrl: "#",
     githubUrl: "#",
