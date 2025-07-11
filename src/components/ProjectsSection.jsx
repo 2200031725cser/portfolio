@@ -12,6 +12,16 @@ const projects = [
     demoUrl: "#",
     githubUrl: "#",
   },
+  {
+    id: 1,
+    title: "Quiz",
+    description:
+      "A quiz with web development.",
+    image: "/projects/project3.png",
+    tags: ["React", "Node.js"],
+    demoUrl: "#",
+    githubUrl: "#",
+  },
 ];
 
 export const ProjectsSection = () => {
