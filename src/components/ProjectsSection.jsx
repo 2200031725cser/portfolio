@@ -17,7 +17,7 @@ const projects = [
     description: "A quiz with web development.",
     image: "/projects/Project2.jpg",
     tags: ["React", "Node.js"],
-    demoUrl: "https://quiz-demo-link.com",
+    demoUrl: "https://quizz-lilac-theta.vercel.app/",
     githubUrl: "https://github.com/2200031725cser/Quizz",
   },
 ];
