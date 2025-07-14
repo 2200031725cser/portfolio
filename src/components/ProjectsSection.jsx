@@ -81,21 +81,7 @@ export const ProjectsSection = () => {
                     >
                       <Github size={20} />
                     </a>
-                    <a
-                      href="https://64acfe9e1360c149c010d1c6--rad-pastelito-4cbb81.netlify.app/"
-                      target="_blank"
-                      className="text-foreground/80 hover:text-primary transition-colors duration-300"
-                    >
-                      <ExternalLink size={20} />
-                    </a>
-                    <a
-                      href="https://github.com/2200031725cser/Quizz"
-                      target="_blank"
-                      className="text-foreground/80 hover:text-primary transition-colors duration-300"
-                    >
-                      <Github size={20} />
-                    </a>
-                  </div>
+                   
                 </div>
               </div>
             </div>
