@@ -20,6 +20,15 @@ const projects = [
     demoUrl: "https://quizz-lilac-theta.vercel.app/",
     githubUrl: "https://github.com/2200031725cser/Quizz",
   },
+  {
+    id: 2,
+    title: "Weather-Forecast",
+    description:
+      "A simple weather forecast application where you can search for any location and get real-time temperature and forecast details. The background images also change dynamically according to the time of day and temperature.",
+    image: "/projects/Project1.jpg",
+    tags: ["Python", "HTML", "Django"],
+    githubUrl: "https://github.com/2200031725cser/weather-forecast",
+  },
 ];
 
 export const ProjectsSection = () => {
