@@ -6,7 +6,7 @@ const projects = [
     title: "E-commerce Platform",
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
+    image: "/projects/project0.png",
     tags: ["React", "Node.js", "MongoDB"],
     demoUrl: "https://64acfe9e1360c149c010d1c6--rad-pastelito-4cbb81.netlify.app/",
     githubUrl: "https://github.com/2200031725cser/mern_stack_online_book_store",
@@ -15,7 +15,7 @@ const projects = [
     id: 1,
     title: "Quiz",
     description: "A quiz with web development.",
-    image: "/projects/Project2.jpg",
+    image: "/projects/Project1.png",
     tags: ["React", "Node.js"],
     demoUrl: "https://quizz-lilac-theta.vercel.app/",
     githubUrl: "https://github.com/2200031725cser/Quizz",
@@ -25,9 +25,36 @@ const projects = [
     title: "Weather-Forecast",
     description:
       "A simple weather forecast application where you can search for any location and get real-time temperature and forecast details. The background images also change dynamically according to the time of day and temperature.",
-    image: "/projects/Project1.jpg",
+    image: "/projects/Project2.png",
     tags: ["Python", "HTML", "Django"],
     githubUrl: "https://github.com/2200031725cser/weather-forecast",
+  },
+  {
+    id: 3,
+    title: "Bus-Reservation-System",
+    description:
+      "A simple bus reservation system where users can search for available buses, view schedules, and book tickets.",
+    image: "/projects/Project3.png",
+    tags: ["Python", "HTML", "Django"],
+    githubUrl: "https://github.com/2200031725cser/Bus-Reservation-System",
+  },
+  {
+    id: 4,
+    title: "Hospital-Management-System",
+    description:
+      "A simple hospital management system where users can search for available doctors, view schedules, and book appointments.",
+    image: "/projects/Project4.png",
+    tags: ["Python", "HTML","CSS", "Django"],
+    githubUrl: "https://github.com/2200031725cser/Hospital-Management-System",
+  },
+  {
+    id: 5,
+    title: "Online-Job-Portal",
+    description:
+      "A simple online job portal where users can search for available jobs, view details, and apply for positions.",
+    image: "/projects/Project5.png",
+    tags: ["React", "HTML","CSS", "MySQL"],
+    githubUrl: "https://github.com/2200031725cser/Online-Job-Portal",
   },
 ];
 
