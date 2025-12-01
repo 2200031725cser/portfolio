@@ -38,24 +38,6 @@ const projects = [
     tags: ["Python", "HTML", "Django"],
     githubUrl: "https://github.com/2200031725cser/Bus-Reservation-System",
   },
-  {
-    id: 4,
-    title: "Hospital-Management-System",
-    description:
-      "A simple hospital management system where users can search for available doctors, view schedules, and book appointments.",
-    image: "/projects/Project4.png",
-    tags: ["Python", "HTML","CSS", "Django"],
-    githubUrl: "https://github.com/2200031725cser/Hospital-Management-System",
-  },
-  {
-    id: 5,
-    title: "Online-Job-Portal",
-    description:
-      "A simple online job portal where users can search for available jobs, view details, and apply for positions.",
-    image: "/projects/Project5.png",
-    tags: ["React", "HTML","CSS", "MySQL"],
-    githubUrl: "https://github.com/2200031725cser/Online-Job-Portal",
-  },
 ];
 
 export const ProjectsSection = () => {
